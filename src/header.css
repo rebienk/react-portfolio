@@ -1,0 +1,29 @@
+
+header{
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 300px;
+}
+
+header h1{
+    margin: 0;
+    font-size: 5rem;
+    font-family: monospace;
+
+}
+
+header p{
+    font-weight: 700;
+    color: rgb(33, 37, 41);
+    font-size: 1rem;
+
+}
+
+header button{
+    background-color: #6725c7;
+    border-color: #1d809f;
+    color: #ffffff;
+    padding: 1.25rem 2.5rem;
+    box-shadow: 1px 3px 3px 2px rgb(234, 131, 48);
+    font-weight: 700;
+}

@@ -1,0 +1,25 @@
+.container{
+    background-color: #000000;
+    opacity: .5;
+    color: rgb(250, 250, 250);
+    font-family: monospace;
+    margin-top: 5%;
+}
+
+.container h3{
+    text-align: center;
+    font-size: 15px;
+    text-transform: uppercase;
+
+}
+
+.container h2{
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    justify-content: space-around;
+    font-size: 400%;
+}
+
